@@ -1,4 +1,4 @@
-DoStuff
+Start Today [![Build Status](https://travis-ci.org/markhuge/StartToday.svg?branch=develop)](https://travis-ci.org/markhuge/StartToday)
 =======
 > Portable, actionable lists that don't suck
 
