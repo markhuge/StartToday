@@ -1,4 +1,4 @@
-DoStuff
+Start Today [![Build Status](https://travis-ci.org/markhuge/StartToday.svg?branch=develop)](https://travis-ci.org/markhuge/StartToday)
 =======
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/markhuge/StartToday?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Portable, actionable lists that don't suck
