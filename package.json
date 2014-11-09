@@ -1,0 +1,26 @@
+{
+  "name": "start-today-web",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Portable, actionable lists that don't suck",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run unit",
+    "unit": "mocha --recursive -R spec test/unit/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markhuge/StartToday.git"
+  },
+  "author": "Mark Wilkerson <mark@segfawlt.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhuge/StartToday/issues"
+  },
+  "homepage": "https://github.com/markhuge/StartToday",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1",
+    "sinon": "^1.11.1"
+  }
+}
